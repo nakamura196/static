@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0004.json",
+    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0004.json",
     "@type": "sc:AnnotationList",
     "resources": [
         {
@@ -12,7 +12,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【広告】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=798,85,523,836"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=798,85,523,836"
         },
         {
             "@id": "a_1_1001_101_131_134",
@@ -23,7 +23,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【図版】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1001,101,131,134"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1001,101,131,134"
         },
         {
             "@id": "a_2_1047_261_61_366",
@@ -34,7 +34,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【図版】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1047,261,61,366"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1047,261,61,366"
         },
         {
             "@id": "a_3_487_54_120_25",
@@ -45,7 +45,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【柱】〓/"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=487,54,120,25"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=487,54,120,25"
         },
         {
             "@id": "a_4_1011_115_111_110",
@@ -56,7 +56,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【柱】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1011,115,111,110"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1011,115,111,110"
         },
         {
             "@id": "a_5_1040_871_75_18",
@@ -67,7 +67,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【ノンブル】〓105"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1040,871,75,18"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1040,871,75,18"
         },
         {
             "@id": "a_6_637_192_24_23",
@@ -78,7 +78,7 @@
                 "format": "text/plain",
                 "chars": "【本文:1】序"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=637,192,24,23"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=637,192,24,23"
         },
         {
             "@id": "a_7_565_170_20_682",
@@ -89,7 +89,7 @@
                 "format": "text/plain",
                 "chars": "【本文:2】東京帝國大學名譽教授散芳賀矢一博士が、久しく東大の國語國文學講座を擔當して、多數學生の指導に任ぜ"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=565,170,20,682"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=565,170,20,682"
         },
         {
             "@id": "a_8_537_155_19_695",
@@ -100,7 +100,7 @@
                 "format": "text/plain",
                 "chars": "【本文:3】られ、又わが國文學界に於ける新研究の開拓者として學界に貢獻された功績の顯著なことは、今更申すまで〓"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=537,155,19,695"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=537,155,19,695"
         },
         {
             "@id": "a_9_508_156_19_694",
@@ -111,7 +111,7 @@
                 "format": "text/plain",
                 "chars": "【本文:4】ありません。大正十一年三月病のために願に依つて本官を免ぜられましたが、博士を知ると知らざるとを問は"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=508,156,19,694"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=508,156,19,694"
         },
         {
             "@id": "a_10_480_156_19_686",
@@ -122,7 +122,7 @@
                 "format": "text/plain",
                 "chars": "【本文:5】ず、講壇から博士を失ふことを惜しまないものはありませんでした。それで博士記念のために國文學研究の"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=480,156,19,686"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=480,156,19,686"
         },
         {
             "@id": "a_11_451_153_19_696",
@@ -133,7 +133,7 @@
                 "format": "text/plain",
                 "chars": "【本文:6】事業を起さうといふ議が、やがて博士の知人門下生の間に起り、十二年三月本會が出來て、資金の募集に著王"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=451,153,19,696"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=451,153,19,696"
         },
         {
             "@id": "a_12_423_155_18_692",
@@ -144,7 +144,7 @@
                 "format": "text/plain",
                 "chars": "【本文:7】したのであります。中途大震火災の變に遭遇しましたが、幸に資を得ること金五千餘圓に達しました。そこで"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=423,155,18,692"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=423,155,18,692"
         },
         {
             "@id": "a_13_395_156_18_694",
@@ -155,7 +155,7 @@
                 "format": "text/plain",
                 "chars": "【本文:8】實行委員は直ちに本資金及びその利子を以て源氏物語の諸註集成を作成せんことを企圖し、これを目標とした"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=395,156,18,694"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=395,156,18,694"
         },
         {
             "@id": "a_14_366_155_18_695",
@@ -166,7 +166,7 @@
                 "format": "text/plain",
                 "chars": "【本文:9】研究を新進有爲の學者に委囑することとし、芳賀博士の贊成を得て、これを文學士池田龜鑑君に囑託すること"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=366,155,18,695"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=366,155,18,695"
         },
         {
             "@id": "a_15_343_155_13_132",
@@ -177,7 +177,7 @@
                 "format": "text/plain",
                 "chars": "【本文:10】に決定いたしました。"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=343,155,13,132"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=343,155,13,132"
         },
         {
             "@id": "a_16_310_168_17_682",
@@ -188,7 +188,7 @@
                 "format": "text/plain",
                 "chars": "【本文:11】池田文學士は囑を受けてより日夜勵精、資料の蒐集及びその研究に從事することになりました。かくて研空"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=310,168,17,682"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=310,168,17,682"
         },
         {
             "@id": "a_17_281_155_17_694",
@@ -199,7 +199,7 @@
                 "format": "text/plain",
                 "chars": "【本文:12】が漸次進むに隨つて、君は古註引くところの原文の異同に疑を抱き、先づ原典研究の基礎を固めるのでなけれ"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=281,155,17,694"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=281,155,17,694"
         },
         {
             "@id": "a_18_254_155_17_686",
@@ -210,7 +210,7 @@
                 "format": "text/plain",
                 "chars": "【本文:13】は、諸註研究の完備は期し難いことを痛感され、實行委員も亦これを容認したので、君は第一次事業として"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=254,155,17,686"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=254,155,17,686"
         },
         {
             "@id": "a_19_228_152_14_262",
@@ -221,7 +221,7 @@
                 "format": "text/plain",
                 "chars": "【本文:14】原典研究に從事されることになりました。"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=228,152,14,262"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=228,152,14,262"
         },
         {
             "@id": "a_20_196_168_17_688",
@@ -232,7 +232,7 @@
                 "format": "text/plain",
                 "chars": "【本文:15】爾來君は主力を原典の搜索、蒐集に注ぎ、廣くこれを全國に探り、得るに隨つて或は摸寫し、或は撮影して、"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=196,168,17,688"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=196,168,17,688"
         },
         {
             "@id": "a_21_1032_782_66_19",
@@ -243,7 +243,7 @@
                 "format": "text/plain",
                 "chars": "【本文:0】〓7.7.15"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1032,782,66,19"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1032,782,66,19"
         },
         {
             "@id": "a_22_637,193,637,195,638,196,637,197,637,215,661,215,661,192,638,192",
@@ -257,7 +257,7 @@
             "on": [
                 {
                     "@type": "oa:SpecificResource",
-                    "full": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                    "full": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                     "selector": {
                         "@type": "oa:Choice",
                         "item": {
@@ -280,7 +280,7 @@
             "on": [
                 {
                     "@type": "oa:SpecificResource",
-                    "full": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                    "full": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                     "selector": {
                         "@type": "oa:Choice",
                         "item": {
@@ -303,7 +303,7 @@
             "on": [
                 {
                     "@type": "oa:SpecificResource",
-                    "full": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                    "full": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                     "selector": {
                         "@type": "oa:Choice",
                         "item": {

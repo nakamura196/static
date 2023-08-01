@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/manifest.json",
+    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/manifest.json",
     "@type": "sc:Manifest",
     "label": "6722fa34-2fff-11ee-a029-0242ac1c000c",
     "sequences": [
@@ -8,16 +8,16 @@
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
+                    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1024,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
+                            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
                             "resource": {
-                                "@id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0001.jpg",
+                                "@id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0001.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
@@ -27,12 +27,12 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0001.json",
+                            "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0001.json",
                             "@type": "sc:AnnotationList"
                         }
                     ],
                     "seeAlso": {
-                        "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0001.xml",
+                        "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0001.xml",
                         "format": "text/xml",
                         "label": "METS-ALTO XML",
                         "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd"
@@ -40,16 +40,16 @@
                     "width": 1499
                 },
                 {
-                    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2",
+                    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1024,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2",
+                            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2",
                             "resource": {
-                                "@id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0002.jpg",
+                                "@id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0002.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
@@ -59,12 +59,12 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0002.json",
+                            "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0002.json",
                             "@type": "sc:AnnotationList"
                         }
                     ],
                     "seeAlso": {
-                        "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0002.xml",
+                        "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0002.xml",
                         "format": "text/xml",
                         "label": "METS-ALTO XML",
                         "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd"
@@ -72,16 +72,16 @@
                     "width": 1499
                 },
                 {
-                    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3",
+                    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1024,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3",
+                            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3",
                             "resource": {
-                                "@id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0003.jpg",
+                                "@id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0003.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
@@ -91,12 +91,12 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0003.json",
+                            "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0003.json",
                             "@type": "sc:AnnotationList"
                         }
                     ],
                     "seeAlso": {
-                        "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0003.xml",
+                        "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0003.xml",
                         "format": "text/xml",
                         "label": "METS-ALTO XML",
                         "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd"
@@ -104,16 +104,16 @@
                     "width": 1499
                 },
                 {
-                    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1024,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                             "resource": {
-                                "@id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0004.jpg",
+                                "@id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0004.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
@@ -123,12 +123,12 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0004.json",
+                            "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0004.json",
                             "@type": "sc:AnnotationList"
                         }
                     ],
                     "seeAlso": {
-                        "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0004.xml",
+                        "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0004.xml",
                         "format": "text/xml",
                         "label": "METS-ALTO XML",
                         "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd"
@@ -136,16 +136,16 @@
                     "width": 1499
                 },
                 {
-                    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
+                    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1024,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
+                            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
                             "resource": {
-                                "@id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0005.jpg",
+                                "@id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0005.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
@@ -155,12 +155,12 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0005.json",
+                            "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0005.json",
                             "@type": "sc:AnnotationList"
                         }
                     ],
                     "seeAlso": {
-                        "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0005.xml",
+                        "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0005.xml",
                         "format": "text/xml",
                         "label": "METS-ALTO XML",
                         "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd"

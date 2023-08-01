@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0001.json",
+    "@id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0001.json",
     "@type": "sc:AnnotationList",
     "resources": [
         {
@@ -12,7 +12,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【図版】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=224,50,511,928"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=224,50,511,928"
         },
         {
             "@id": "a_1_930_44_85_709",
@@ -23,7 +23,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【表組】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=930,44,85,709"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=930,44,85,709"
         },
         {
             "@id": "a_2_805_57_121_683",
@@ -34,7 +34,7 @@
                 "format": "text/plain",
                 "chars": "⭐️【表組】"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=805,57,121,683"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=805,57,121,683"
         },
         {
             "@id": "a_3_1147_67_24_191",
@@ -45,7 +45,7 @@
                 "format": "text/plain",
                 "chars": "【キャプション:0】Kodek Gray Scale"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1147,67,24,191"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1147,67,24,191"
         },
         {
             "@id": "a_4_1150_629_8_100",
@@ -56,7 +56,7 @@
                 "format": "text/plain",
                 "chars": "【キャプション:1】〓e207e"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1150,629,8,100"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1150,629,8,100"
         },
         {
             "@id": "a_5_953_73_20_307",
@@ -67,7 +67,7 @@
                 "format": "text/plain",
                 "chars": "【キャプション:2】KOcakColorControl Patches"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=953,73,20,307"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=953,73,20,307"
         },
         {
             "@id": "a_6_932_74_13_647",
@@ -78,7 +78,7 @@
                 "format": "text/plain",
                 "chars": "【キャプション:3】〓Iuen〓r〓enYelweuwaqentahite〓ric"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=932,74,13,647"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=932,74,13,647"
         },
         {
             "@id": "a_7_775_57_20_673",
@@ -89,7 +89,7 @@
                 "format": "text/plain",
                 "chars": "【キャプション:4】〓1234567893U1234〓6789〓"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=775,57,20,673"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=775,57,20,673"
         },
         {
             "@id": "a_8_760_81_13_655",
@@ -100,7 +100,7 @@
                 "format": "text/plain",
                 "chars": "【キャプション:5】山iiiiliiiliiil"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=760,81,13,655"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=760,81,13,655"
         },
         {
             "@id": "a_9_157_124_56_618",
@@ -111,7 +111,7 @@
                 "format": "text/plain",
                 "chars": "【本文:6】校里源氏物証卷"
             },
-            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=157,124,56,618"
+            "on": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=157,124,56,618"
         },
         {
             "@id": "a_10_160,125,157,129,158,733,160,739,164,742,211,742,213,736,213,133,212,127,207,124",
@@ -125,7 +125,7 @@
             "on": [
                 {
                     "@type": "oa:SpecificResource",
-                    "full": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
+                    "full": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
                     "selector": {
                         "@type": "oa:Choice",
                         "item": {

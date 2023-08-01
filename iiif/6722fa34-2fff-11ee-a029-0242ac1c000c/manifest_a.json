@@ -1,11 +1,11 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/manifest.json",
+    "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/manifest.json",
     "type": "Manifest",
     "label": "6722fa34-2fff-11ee-a029-0242ac1c000c",
     "items": [
         {
-            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
+            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
             "type": "Canvas",
             "height": 1024,
             "width": 1499,
@@ -14,17 +14,17 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0001-image",
+                            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0001-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0001.jpg",
+                                "id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0001.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
                                 "width": 1499
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1"
                         }
                     ]
                 }
@@ -44,7 +44,7 @@
                                 "__value": "図版",
                                 "value": "⭐️【図版】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=224,50,511,928"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=224,50,511,928"
                         },
                         {
                             "id": "a_1_930_44_85_709",
@@ -57,7 +57,7 @@
                                 "__value": "表組",
                                 "value": "⭐️【表組】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=930,44,85,709"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=930,44,85,709"
                         },
                         {
                             "id": "a_2_805_57_121_683",
@@ -70,7 +70,7 @@
                                 "__value": "表組",
                                 "value": "⭐️【表組】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=805,57,121,683"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=805,57,121,683"
                         },
                         {
                             "id": "a_3_1147_67_24_191",
@@ -81,7 +81,7 @@
                                 "type": "TextualBody",
                                 "value": "【キャプション:0】Kodek Gray Scale"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1147,67,24,191"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1147,67,24,191"
                         },
                         {
                             "id": "a_4_1150_629_8_100",
@@ -92,7 +92,7 @@
                                 "type": "TextualBody",
                                 "value": "【キャプション:1】〓e207e"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1150,629,8,100"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=1150,629,8,100"
                         },
                         {
                             "id": "a_5_953_73_20_307",
@@ -103,7 +103,7 @@
                                 "type": "TextualBody",
                                 "value": "【キャプション:2】KOcakColorControl Patches"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=953,73,20,307"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=953,73,20,307"
                         },
                         {
                             "id": "a_6_932_74_13_647",
@@ -114,7 +114,7 @@
                                 "type": "TextualBody",
                                 "value": "【キャプション:3】〓Iuen〓r〓enYelweuwaqentahite〓ric"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=932,74,13,647"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=932,74,13,647"
                         },
                         {
                             "id": "a_7_775_57_20_673",
@@ -125,7 +125,7 @@
                                 "type": "TextualBody",
                                 "value": "【キャプション:4】〓1234567893U1234〓6789〓"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=775,57,20,673"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=775,57,20,673"
                         },
                         {
                             "id": "a_8_760_81_13_655",
@@ -136,7 +136,7 @@
                                 "type": "TextualBody",
                                 "value": "【キャプション:5】山iiiiliiiliiil"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=760,81,13,655"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=760,81,13,655"
                         },
                         {
                             "id": "a_9_157_124_56_618",
@@ -147,7 +147,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:6】校里源氏物証卷"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=157,124,56,618"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1#xywh=157,124,56,618"
                         },
                         {
                             "id": "a_10_160,125,157,129,158,733,160,739,164,742,211,742,213,736,213,133,212,127,207,124",
@@ -159,7 +159,7 @@
                             },
                             "target": {
                                 "type": "SpecificResource",
-                                "source": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
+                                "source": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p1",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M 160 125 L 157 129 L 158 733 L 160 739 L 164 742 L 211 742 L 213 736 L 213 133 L 212 127 L 207 124 Z' stroke='red' fill='none'/></g></svg>"
@@ -171,7 +171,7 @@
             ]
         },
         {
-            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2",
+            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2",
             "type": "Canvas",
             "height": 1024,
             "width": 1499,
@@ -180,17 +180,17 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0002-image",
+                            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0002-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0002.jpg",
+                                "id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0002.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
                                 "width": 1499
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2"
                         }
                     ]
                 }
@@ -210,14 +210,14 @@
                                 "__value": "図版",
                                 "value": "⭐️【図版】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2#xywh=734,49,672,894"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2#xywh=734,49,672,894"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3",
+            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3",
             "type": "Canvas",
             "height": 1024,
             "width": 1499,
@@ -226,17 +226,17 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0003-image",
+                            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0003-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0003.jpg",
+                                "id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0003.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
                                 "width": 1499
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3"
                         }
                     ]
                 }
@@ -256,7 +256,7 @@
                                 "__value": "広告",
                                 "value": "⭐️【広告】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3#xywh=200,175,680,720"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3#xywh=200,175,680,720"
                         },
                         {
                             "id": "a_1_479_662_110_114",
@@ -269,14 +269,14 @@
                                 "__value": "図版",
                                 "value": "⭐️【図版】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3#xywh=479,662,110,114"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3#xywh=479,662,110,114"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
             "type": "Canvas",
             "height": 1024,
             "width": 1499,
@@ -285,17 +285,17 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0004-image",
+                            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0004-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0004.jpg",
+                                "id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0004.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
                                 "width": 1499
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4"
                         }
                     ]
                 }
@@ -315,7 +315,7 @@
                                 "__value": "広告",
                                 "value": "⭐️【広告】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=798,85,523,836"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=798,85,523,836"
                         },
                         {
                             "id": "a_1_1001_101_131_134",
@@ -328,7 +328,7 @@
                                 "__value": "図版",
                                 "value": "⭐️【図版】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1001,101,131,134"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1001,101,131,134"
                         },
                         {
                             "id": "a_2_1047_261_61_366",
@@ -341,7 +341,7 @@
                                 "__value": "図版",
                                 "value": "⭐️【図版】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1047,261,61,366"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1047,261,61,366"
                         },
                         {
                             "id": "a_3_487_54_120_25",
@@ -354,7 +354,7 @@
                                 "__value": "柱",
                                 "value": "⭐️【柱】〓/"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=487,54,120,25"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=487,54,120,25"
                         },
                         {
                             "id": "a_4_1011_115_111_110",
@@ -367,7 +367,7 @@
                                 "__value": "柱",
                                 "value": "⭐️【柱】"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1011,115,111,110"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1011,115,111,110"
                         },
                         {
                             "id": "a_5_1040_871_75_18",
@@ -380,7 +380,7 @@
                                 "__value": "ノンブル",
                                 "value": "⭐️【ノンブル】〓105"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1040,871,75,18"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1040,871,75,18"
                         },
                         {
                             "id": "a_6_637_192_24_23",
@@ -391,7 +391,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:1】序"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=637,192,24,23"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=637,192,24,23"
                         },
                         {
                             "id": "a_7_565_170_20_682",
@@ -402,7 +402,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:2】東京帝國大學名譽教授散芳賀矢一博士が、久しく東大の國語國文學講座を擔當して、多數學生の指導に任ぜ"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=565,170,20,682"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=565,170,20,682"
                         },
                         {
                             "id": "a_8_537_155_19_695",
@@ -413,7 +413,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:3】られ、又わが國文學界に於ける新研究の開拓者として學界に貢獻された功績の顯著なことは、今更申すまで〓"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=537,155,19,695"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=537,155,19,695"
                         },
                         {
                             "id": "a_9_508_156_19_694",
@@ -424,7 +424,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:4】ありません。大正十一年三月病のために願に依つて本官を免ぜられましたが、博士を知ると知らざるとを問は"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=508,156,19,694"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=508,156,19,694"
                         },
                         {
                             "id": "a_10_480_156_19_686",
@@ -435,7 +435,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:5】ず、講壇から博士を失ふことを惜しまないものはありませんでした。それで博士記念のために國文學研究の"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=480,156,19,686"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=480,156,19,686"
                         },
                         {
                             "id": "a_11_451_153_19_696",
@@ -446,7 +446,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:6】事業を起さうといふ議が、やがて博士の知人門下生の間に起り、十二年三月本會が出來て、資金の募集に著王"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=451,153,19,696"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=451,153,19,696"
                         },
                         {
                             "id": "a_12_423_155_18_692",
@@ -457,7 +457,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:7】したのであります。中途大震火災の變に遭遇しましたが、幸に資を得ること金五千餘圓に達しました。そこで"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=423,155,18,692"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=423,155,18,692"
                         },
                         {
                             "id": "a_13_395_156_18_694",
@@ -468,7 +468,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:8】實行委員は直ちに本資金及びその利子を以て源氏物語の諸註集成を作成せんことを企圖し、これを目標とした"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=395,156,18,694"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=395,156,18,694"
                         },
                         {
                             "id": "a_14_366_155_18_695",
@@ -479,7 +479,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:9】研究を新進有爲の學者に委囑することとし、芳賀博士の贊成を得て、これを文學士池田龜鑑君に囑託すること"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=366,155,18,695"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=366,155,18,695"
                         },
                         {
                             "id": "a_15_343_155_13_132",
@@ -490,7 +490,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:10】に決定いたしました。"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=343,155,13,132"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=343,155,13,132"
                         },
                         {
                             "id": "a_16_310_168_17_682",
@@ -501,7 +501,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:11】池田文學士は囑を受けてより日夜勵精、資料の蒐集及びその研究に從事することになりました。かくて研空"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=310,168,17,682"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=310,168,17,682"
                         },
                         {
                             "id": "a_17_281_155_17_694",
@@ -512,7 +512,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:12】が漸次進むに隨つて、君は古註引くところの原文の異同に疑を抱き、先づ原典研究の基礎を固めるのでなけれ"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=281,155,17,694"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=281,155,17,694"
                         },
                         {
                             "id": "a_18_254_155_17_686",
@@ -523,7 +523,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:13】は、諸註研究の完備は期し難いことを痛感され、實行委員も亦これを容認したので、君は第一次事業として"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=254,155,17,686"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=254,155,17,686"
                         },
                         {
                             "id": "a_19_228_152_14_262",
@@ -534,7 +534,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:14】原典研究に從事されることになりました。"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=228,152,14,262"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=228,152,14,262"
                         },
                         {
                             "id": "a_20_196_168_17_688",
@@ -545,7 +545,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:15】爾來君は主力を原典の搜索、蒐集に注ぎ、廣くこれを全國に探り、得るに隨つて或は摸寫し、或は撮影して、"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=196,168,17,688"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=196,168,17,688"
                         },
                         {
                             "id": "a_21_1032_782_66_19",
@@ -556,7 +556,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:0】〓7.7.15"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1032,782,66,19"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4#xywh=1032,782,66,19"
                         },
                         {
                             "id": "a_22_637,193,637,195,638,196,637,197,637,215,661,215,661,192,638,192",
@@ -568,7 +568,7 @@
                             },
                             "target": {
                                 "type": "SpecificResource",
-                                "source": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                                "source": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M 637 193 L 637 195 L 638 196 L 637 197 L 637 215 L 661 215 L 661 192 L 638 192 Z' stroke='red' fill='none'/></g></svg>"
@@ -585,7 +585,7 @@
                             },
                             "target": {
                                 "type": "SpecificResource",
-                                "source": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                                "source": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M 207 159 L 201 187 L 201 602 L 207 773 L 216 490 L 221 441 L 234 416 L 241 439 L 243 552 L 252 636 L 256 842 L 267 852 L 315 853 L 323 841 L 335 625 L 336 315 L 343 295 L 358 313 L 363 347 L 368 842 L 383 853 L 575 853 L 581 842 L 578 159 L 569 154 L 342 154 L 326 161 L 301 154 L 225 154 Z' stroke='red' fill='none'/></g></svg>"
@@ -602,7 +602,7 @@
                             },
                             "target": {
                                 "type": "SpecificResource",
-                                "source": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
+                                "source": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p4",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M 895 841 L 895 866 L 899 871 L 905 872 L 979 872 L 988 869 L 1009 869 L 1025 871 L 1098 871 L 1105 869 L 1118 869 L 1130 865 L 1160 865 L 1175 867 L 1246 869 L 1251 860 L 1251 831 L 1246 828 L 1170 828 L 1155 827 L 1143 824 L 1126 824 L 1117 826 L 1111 822 L 1111 818 L 1108 814 L 1108 809 L 1105 805 L 1087 805 L 1089 807 L 1088 810 L 1076 810 L 1075 809 L 1077 805 L 1072 803 L 1066 796 L 1071 791 L 1066 778 L 1071 774 L 1069 770 L 1073 767 L 1098 767 L 1105 765 L 1100 761 L 1103 756 L 1095 754 L 1052 754 L 1046 752 L 1038 752 L 1029 756 L 1030 761 L 1027 765 L 1029 769 L 1029 792 L 1035 796 L 1035 799 L 1021 823 L 1016 827 L 957 830 L 925 830 L 913 828 L 900 832 L 897 835 Z' stroke='red' fill='none'/></g></svg>"
@@ -614,7 +614,7 @@
             ]
         },
         {
-            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
+            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
             "type": "Canvas",
             "height": 1024,
             "width": 1499,
@@ -623,17 +623,17 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0005-image",
+                            "id": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/annotation/p0005-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0005.jpg",
+                                "id": "https://nakamura196.github.io/static/files/6722fa34-2fff-11ee-a029-0242ac1c000c/img/0005.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1024,
                                 "width": 1499
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5"
                         }
                     ]
                 }
@@ -651,7 +651,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:0】殆んどあらゆる現存貴重資料に及び、一字をも忽にしない細續な研究は、先人未到の境地に入るに至つて、〓"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1282,152,15,698"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1282,152,15,698"
                         },
                         {
                             "id": "a_1_1254_156_15_697",
@@ -662,7 +662,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:1】和六年漸く校異源氏物語第一次稿本を完成いたされました。併し君はこれを以て滿足せず、研究に研究を重ね"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1254,156,15,697"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1254,156,15,697"
                         },
                         {
                             "id": "a_2_1225_155_15_562",
@@ -673,7 +673,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:2】て幾度か稿を改め、最後的な稿本に到達されたのは、實に昭和七年のことでありました。"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1225,155,15,562"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1225,155,15,562"
                         },
                         {
                             "id": "a_3_1197_173_14_680",
@@ -684,7 +684,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:3】ここに於て、この稿本と併せて、君が從來蒐集された資料の舊寫本、刊本、並に影寫本、寫眞、フイルム等"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1197,173,14,680"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1197,173,14,680"
                         },
                         {
                             "id": "a_4_1169_155_14_699",
@@ -695,7 +695,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:4】の中、重要なものを選擇して、會員に事業の報告もし、且一般學界の參考に資するためにこれが展覽會を開か"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1169,155,14,699"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1169,155,14,699"
                         },
                         {
                             "id": "a_5_1140_152_15_699",
@@ -706,7 +706,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:5】うといふ議が起り、東大國文學研究室、紫式部學會にこのことを委屬しました。かくして同年十一月十九・一"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1140,152,15,699"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1140,152,15,699"
                         },
                         {
                             "id": "a_6_1112_154_15_698",
@@ -717,7 +717,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:6】十日の兩日、總點數六百七十八を、第一部源氏物語諸本、第二部源氏物語諸註、第三部源氏物語一般に關する"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1112,154,15,698"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1112,154,15,698"
                         },
                         {
                             "id": "a_7_1083_154_16_645",
@@ -728,7 +728,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:7】研究書、第四部源氏物語の影響に關する資料に分類して、會員並に一般學界多數の展觀に供しました"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1083,154,16,645"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1083,154,16,645"
                         },
                         {
                             "id": "a_8_1055_171_15_681",
@@ -739,7 +739,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:8】かくして愈〻校異源氏物語は出版の段階に到達しましたが、鹿大な古典校本の出版は、組版に、校正に頗る"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1055,171,15,681"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1055,171,15,681"
                         },
                         {
                             "id": "a_9_1027_155_15_696",
@@ -750,7 +750,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:9】困難なものがあります上に、營利を度外にすべきものでありますから、その具體化について容易ならざる難關"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1027,155,15,696"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=1027,155,15,696"
                         },
                         {
                             "id": "a_10_998_155_15_696",
@@ -761,7 +761,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:10】に逢著いたしました。實行委員は池田君と共に屡〓議を重ねて方法を講じましたが、容易に適當な方途を見出"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=998,155,15,696"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=998,155,15,696"
                         },
                         {
                             "id": "a_11_970_153_15_361",
@@ -772,7 +772,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:11】すに至りません中に、歳月は幾度か流れてしまひました。"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=970,153,15,361"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=970,153,15,361"
                         },
                         {
                             "id": "a_12_941_166_15_689",
@@ -783,7 +783,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:12】結局實行委員に於ては、一時、已むを得ず稿本のまま芳費博土記念會の名の下にこれを東京帝國大學に慰納"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=941,166,15,689"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=941,166,15,689"
                         },
                         {
                             "id": "a_13_913_154_15_686",
@@ -794,7 +794,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:13】して、諸學者の研究に資し、出版のことは池田君に意があつたら一任するといふことに決議いたしましたが"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=913,154,15,686"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=913,154,15,686"
                         },
                         {
                             "id": "a_14_884_154_16_687",
@@ -805,7 +805,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:14】池田君は出版の初一念を斷たず、これを決行し得てこそ始めてその受けた任務を完了する所以であるとし"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=884,154,16,687"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=884,154,16,687"
                         },
                         {
                             "id": "a_15_856_155_16_695",
@@ -816,7 +816,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:15】愈〻雄心を鼓舞して更に稿をかへ、學衛的價値を減損するところなくしてしかも出版可能性の最も多い形に改"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=856,155,16,695"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=856,155,16,695"
                         },
                         {
                             "id": "a_16_828_155_16_695",
@@ -827,7 +827,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:16】める難業を工夫して、これが出版について奔走盡力されました。幸に中央公論社長嶋中雄作氏は君の熱誠に成"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=828,155,16,695"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=828,155,16,695"
                         },
                         {
                             "id": "a_17_800_156_15_694",
@@ -838,7 +838,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:17】じ、この難事業に深い理解と同情とを寄せられ、谷崎氏の源氏物語譯本の出版完了に引續き、これが出版に葉"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=800,156,15,694"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=800,156,15,694"
                         },
                         {
                             "id": "a_18_681_151_14_705",
@@ -849,7 +849,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:18】手すべきことを約諾されましたので、池田君は更に本事業の完璧を期して詳細なる語彙索引の事業を追加して"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=681,151,14,705"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=681,151,14,705"
                         },
                         {
                             "id": "a_19_653_151_14_699",
@@ -860,7 +860,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:19】愈〻最後の稿本整理に寢食を忘れて從事されることになりました。かくして多年埋沒するの已むを得なかつた"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=653,151,14,699"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=653,151,14,699"
                         },
                         {
                             "id": "a_20_625_150_15_702",
@@ -871,7 +871,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:20】本校異源氏物語と共に、池田君多年の辛勞は、茲に始めて世に出ることを得るに至りました。實行委員も亦久"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=625,150,15,702"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=625,150,15,702"
                         },
                         {
                             "id": "a_21_597_152_14_433",
@@ -882,7 +882,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:21】しぷりに秋の天を仰ぎ得たやうな心持を感ずるを得たのであります。"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=597,152,14,433"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=597,152,14,433"
                         },
                         {
                             "id": "a_22_569_168_14_683",
@@ -893,7 +893,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:22】この間、君は本會並に東照宮記念會よりの補助金を以て、一部資料の蒐集・謄寫・撮影、之に要する旅費乃"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=569,168,14,683"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=569,168,14,683"
                         },
                         {
                             "id": "a_23_540_153_15_695",
@@ -904,7 +904,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:23】び原稿用紙の製作費等に充てられ、この資料は本會が之を保管してをりますが、君が十餘年に瓦つて本事業に"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=540,153,15,695"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=540,153,15,695"
                         },
                         {
                             "id": "a_24_512_152_14_697",
@@ -915,7 +915,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:24】要せられた人件費やその他一切の諸雜費はもとより、大部分の資料の蒐集・謄寫・攝影に關しては私財を擧ば"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=512,152,14,697"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=512,152,14,697"
                         },
                         {
                             "id": "a_25_484_152_15_698",
@@ -926,7 +926,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:25】てこれが資に投じ、又父君を始め全家族を動員して、この難事業に協力せしめ、一意これが完成のために盡さ"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=484,152,15,698"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=484,152,15,698"
                         },
                         {
                             "id": "a_26_455_150_14_537",
@@ -937,7 +937,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:26】れたことは、尋常一樣の犧牲の語を以てしては到底表はし得ないほどでありました。"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=455,150,14,537"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=455,150,14,537"
                         },
                         {
                             "id": "a_27_427_169_15_683",
@@ -948,7 +948,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:27】この間昭和二年二月芳賀博士は永眠され、本事業の第一次完成として、本書の出版を見ていただくことの出"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=427,169,15,683"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=427,169,15,683"
                         },
                         {
                             "id": "a_28_399_150_15_699",
@@ -959,7 +959,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:28】來なかつたことは千秋の恨事であり、又會員諸君に對して甚だ遺憾の事であり、陳謝に堪へない次第であり〓"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=399,150,15,699"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=399,150,15,699"
                         },
                         {
                             "id": "a_29_370_152_15_698",
@@ -970,7 +970,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:29】すが、會員諸君には、どうか事業の性質成績と前述の事情とについて御洞察下さつて、寛恕されんことを懇師"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=370,152,15,698"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=370,152,15,698"
                         },
                         {
                             "id": "a_30_342_154_15_696",
@@ -981,7 +981,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:30】いたす次第であります。なほ池田君は本事業の第二次・第三次の完成を期して獨力を以て研究を續け、且つ出"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=342,154,15,696"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=342,154,15,696"
                         },
                         {
                             "id": "a_31_313_152_15_619",
@@ -992,7 +992,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:31】版される豫定で、その研究の一部はすでに完了してゐることを、この際ここに報告しておきます、"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=313,152,15,619"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=313,152,15,619"
                         },
                         {
                             "id": "a_32_285_168_16_684",
@@ -1003,7 +1003,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:32】宮内省は帝室御物の拜觀・撮影の機を與へられ、高松宮家におかせられては、宮家御藏本の拜觀・攝影を許"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=285,168,16,684"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=285,168,16,684"
                         },
                         {
                             "id": "a_33_257_153_15_698",
@@ -1014,7 +1014,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:33】可せられました。學術研究御奬勵の有難き思召は、誠に恐罹の極みであります。又本事業に關し、池田君の研"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=257,153,15,698"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=257,153,15,698"
                         },
                         {
                             "id": "a_34_228_153_16_697",
@@ -1025,7 +1025,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:34】究を補助し、出版を援助された方々は頗る多いのであります。東照宮三百年記念會は研究費を補助され、宮内"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=228,153,16,697"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=228,153,16,697"
                         },
                         {
                             "id": "a_35_200_152_15_698",
@@ -1036,7 +1036,7 @@
                                 "type": "TextualBody",
                                 "value": "【本文:35】省圖書寮をはじめ、近衞公爵家・前田侯爵家・徳川侯爵家・三條西伯爵家・榊原子爵家の諸家、大島雅太郎氏・"
                             },
-                            "target": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=200,152,15,698"
+                            "target": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5#xywh=200,152,15,698"
                         },
                         {
                             "id": "a_36_810,157,804,166,807,848,812,853,937,853,957,841,962,761,962,567,966,541,972,533,992,564,997,609,998,830,1002,848,1008,853,1077,850,1085,841,1095,813,1105,842,1114,851,1203,852,1211,841,1212,810,1221,791,1228,743,1237,726,1245,749,1248,843,1255,851,1290,852,1297,842,1295,161,1290,156",
@@ -1048,7 +1048,7 @@
                             },
                             "target": {
                                 "type": "SpecificResource",
-                                "source": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
+                                "source": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M 810 157 L 804 166 L 807 848 L 812 853 L 937 853 L 957 841 L 962 761 L 962 567 L 966 541 L 972 533 L 992 564 L 997 609 L 998 830 L 1002 848 L 1008 853 L 1077 850 L 1085 841 L 1095 813 L 1105 842 L 1114 851 L 1203 852 L 1211 841 L 1212 810 L 1221 791 L 1228 743 L 1237 726 L 1245 749 L 1248 843 L 1255 851 L 1290 852 L 1297 842 L 1295 161 L 1290 156 Z' stroke='red' fill='none'/></g></svg>"
@@ -1065,7 +1065,7 @@
                             },
                             "target": {
                                 "type": "SpecificResource",
-                                "source": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
+                                "source": "https://nakamura196.github.io/static/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p5",
                                 "selector": {
                                     "type": "SvgSelector",
                                     "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M 208 155 L 200 167 L 200 780 L 204 850 L 220 856 L 297 856 L 306 843 L 310 811 L 332 783 L 339 797 L 342 845 L 348 854 L 438 856 L 446 845 L 450 744 L 460 718 L 474 702 L 482 722 L 486 850 L 496 856 L 579 855 L 587 844 L 590 647 L 596 616 L 615 601 L 622 617 L 626 845 L 633 854 L 686 855 L 693 846 L 691 160 L 686 155 Z' stroke='red' fill='none'/></g></svg>"
