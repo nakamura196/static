@@ -1,0 +1,18 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0002.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "a_0_734_49_672_894",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/plain",
+                "chars": "⭐️【図版】"
+            },
+            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p2#xywh=734,49,672,894"
+        }
+    ]
+}

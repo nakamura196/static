@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>6722fa34-2fff-11ee-a029-0242ac1c000c_0005.xml</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_1">
+			<ocrProcessingStep>
+				<processingDateTime>2023-08-01T09:13:39.325634+09:00</processingDateTime>
+				<processingAgency>Google Colaboratory</processingAgency>
+				<processingStepSettings>{"config_file": "config.yml", "dump": false, "input_dirs": ["/content/docs/files/6722fa34-2fff-11ee-a029-0242ac1c000c"], "input_root": "/content/docs/files/6722fa34-2fff-11ee-a029-0242ac1c000c", "input_structure": "s", "layout_extraction": {"checkpoint_path": "submodules/ndl_layout/models/ndl_retrainmodel.pth", "config_path": "submodules/ndl_layout/models/cascade_mask_rcnn_convnext-t_p4_w7_fpn_giou_4conv1f_fp16_ms-crop_3x_coco.py", "device": "cuda:0", "score_thr": 0.3}, "line_attribute": {"add_title_author": true, "author_model": "submodules/text_recognition_lightning/models/rf_author/model.pkl", "classifier": "rf", "title_model": "submodules/text_recognition_lightning/models/rf_title/model.pkl"}, "line_ocr": {"additional_elements": {"ノンブル": true, "ルビ": true, "柱": true}, "char_list": "submodules/text_recognition_lightning/ndldata/mojilist_NDL.txt", "saved_model": "submodules/text_recognition_lightning/models/resnet-orient2.ckpt"}, "line_order": true, "output_root": "/content/drive/MyDrive/ndl_ocr2/output/image_url_2023-08-01T07:30:32.249682+09:00_2023-08-01T09:07:45.897213+09:00", "page_deskew": {"acc_deg": 0.1, "gray": 1.0, "method": 1, "quality": 100, "r_angle": 0, "roi_h": 1.0, "roi_w": 1.0, "short": null, "skew_max": 4.0}, "page_separation": {"allow_invalid_num_output": true, "config_path": "submodules/separate_pages_mmdet/models/cascade_rcnn_r50_fpn_1x_ndl_1024.py", "ext": ".jpg", "input": "inference_input", "left": "_01", "log": "trim_pos.tsv", "quality": 100, "right": "_02", "silence_tf_log": true, "single": "_00", "weight_path": "submodules/separate_pages_mmdet/models/epoch_180.pth"}, "partial_infer": true, "proc_range": {"end": 3, "start": 2}, "ruby_only": false, "ruby_read": false, "save_image": false, "save_xml": true}</processingStepSettings>
+				<processingSoftware>
+					<softwareCreator>National Diet Library</softwareCreator>
+					<softwareName>NDLOCR</softwareName>
+					<softwareVersion>2.1</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page ID="Page_5" PHYSICAL_IMG_NR="5">
+			<PrintSpace ID="PrintSpace_5">
+				<TextBlock ID="TextBlock_1">
+					<TextLine HEIGHT="698" HPOS="1282" ID="TextLine_1" VPOS="152" WIDTH="15">
+						<String CONTENT="殆んどあらゆる現存貴重資料に及び、一字をも忽にしない細續な研究は、先人未到の境地に入るに至つて、〓" HEIGHT="698" HPOS="1282" ID="Word_1" VPOS="152" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="697" HPOS="1254" ID="TextLine_2" VPOS="156" WIDTH="15">
+						<String CONTENT="和六年漸く校異源氏物語第一次稿本を完成いたされました。併し君はこれを以て滿足せず、研究に研究を重ね" HEIGHT="697" HPOS="1254" ID="Word_2" VPOS="156" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="562" HPOS="1225" ID="TextLine_3" VPOS="155" WIDTH="15">
+						<String CONTENT="て幾度か稿を改め、最後的な稿本に到達されたのは、實に昭和七年のことでありました。" HEIGHT="562" HPOS="1225" ID="Word_3" VPOS="155" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="680" HPOS="1197" ID="TextLine_4" VPOS="173" WIDTH="14">
+						<String CONTENT="ここに於て、この稿本と併せて、君が從來蒐集された資料の舊寫本、刊本、並に影寫本、寫眞、フイルム等" HEIGHT="680" HPOS="1197" ID="Word_4" VPOS="173" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="699" HPOS="1169" ID="TextLine_5" VPOS="155" WIDTH="14">
+						<String CONTENT="の中、重要なものを選擇して、會員に事業の報告もし、且一般學界の參考に資するためにこれが展覽會を開か" HEIGHT="699" HPOS="1169" ID="Word_5" VPOS="155" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="699" HPOS="1140" ID="TextLine_6" VPOS="152" WIDTH="15">
+						<String CONTENT="うといふ議が起り、東大國文學研究室、紫式部學會にこのことを委屬しました。かくして同年十一月十九・一" HEIGHT="699" HPOS="1140" ID="Word_6" VPOS="152" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="698" HPOS="1112" ID="TextLine_7" VPOS="154" WIDTH="15">
+						<String CONTENT="十日の兩日、總點數六百七十八を、第一部源氏物語諸本、第二部源氏物語諸註、第三部源氏物語一般に關する" HEIGHT="698" HPOS="1112" ID="Word_7" VPOS="154" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="645" HPOS="1083" ID="TextLine_8" VPOS="154" WIDTH="16">
+						<String CONTENT="研究書、第四部源氏物語の影響に關する資料に分類して、會員並に一般學界多數の展觀に供しました" HEIGHT="645" HPOS="1083" ID="Word_8" VPOS="154" WIDTH="16" />
+					</TextLine>
+					<TextLine HEIGHT="681" HPOS="1055" ID="TextLine_9" VPOS="171" WIDTH="15">
+						<String CONTENT="かくして愈〻校異源氏物語は出版の段階に到達しましたが、鹿大な古典校本の出版は、組版に、校正に頗る" HEIGHT="681" HPOS="1055" ID="Word_9" VPOS="171" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="696" HPOS="1027" ID="TextLine_10" VPOS="155" WIDTH="15">
+						<String CONTENT="困難なものがあります上に、營利を度外にすべきものでありますから、その具體化について容易ならざる難關" HEIGHT="696" HPOS="1027" ID="Word_10" VPOS="155" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="696" HPOS="998" ID="TextLine_11" VPOS="155" WIDTH="15">
+						<String CONTENT="に逢著いたしました。實行委員は池田君と共に屡〓議を重ねて方法を講じましたが、容易に適當な方途を見出" HEIGHT="696" HPOS="998" ID="Word_11" VPOS="155" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="361" HPOS="970" ID="TextLine_12" VPOS="153" WIDTH="15">
+						<String CONTENT="すに至りません中に、歳月は幾度か流れてしまひました。" HEIGHT="361" HPOS="970" ID="Word_12" VPOS="153" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="689" HPOS="941" ID="TextLine_13" VPOS="166" WIDTH="15">
+						<String CONTENT="結局實行委員に於ては、一時、已むを得ず稿本のまま芳費博土記念會の名の下にこれを東京帝國大學に慰納" HEIGHT="689" HPOS="941" ID="Word_13" VPOS="166" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="686" HPOS="913" ID="TextLine_14" VPOS="154" WIDTH="15">
+						<String CONTENT="して、諸學者の研究に資し、出版のことは池田君に意があつたら一任するといふことに決議いたしましたが" HEIGHT="686" HPOS="913" ID="Word_14" VPOS="154" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="687" HPOS="884" ID="TextLine_15" VPOS="154" WIDTH="16">
+						<String CONTENT="池田君は出版の初一念を斷たず、これを決行し得てこそ始めてその受けた任務を完了する所以であるとし" HEIGHT="687" HPOS="884" ID="Word_15" VPOS="154" WIDTH="16" />
+					</TextLine>
+					<TextLine HEIGHT="695" HPOS="856" ID="TextLine_16" VPOS="155" WIDTH="16">
+						<String CONTENT="愈〻雄心を鼓舞して更に稿をかへ、學衛的價値を減損するところなくしてしかも出版可能性の最も多い形に改" HEIGHT="695" HPOS="856" ID="Word_16" VPOS="155" WIDTH="16" />
+					</TextLine>
+					<TextLine HEIGHT="695" HPOS="828" ID="TextLine_17" VPOS="155" WIDTH="16">
+						<String CONTENT="める難業を工夫して、これが出版について奔走盡力されました。幸に中央公論社長嶋中雄作氏は君の熱誠に成" HEIGHT="695" HPOS="828" ID="Word_17" VPOS="155" WIDTH="16" />
+					</TextLine>
+					<TextLine HEIGHT="694" HPOS="800" ID="TextLine_18" VPOS="156" WIDTH="15">
+						<String CONTENT="じ、この難事業に深い理解と同情とを寄せられ、谷崎氏の源氏物語譯本の出版完了に引續き、これが出版に葉" HEIGHT="694" HPOS="800" ID="Word_18" VPOS="156" WIDTH="15" />
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="TextBlock_2">
+					<TextLine HEIGHT="705" HPOS="681" ID="TextLine_19" VPOS="151" WIDTH="14">
+						<String CONTENT="手すべきことを約諾されましたので、池田君は更に本事業の完璧を期して詳細なる語彙索引の事業を追加して" HEIGHT="705" HPOS="681" ID="Word_19" VPOS="151" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="699" HPOS="653" ID="TextLine_20" VPOS="151" WIDTH="14">
+						<String CONTENT="愈〻最後の稿本整理に寢食を忘れて從事されることになりました。かくして多年埋沒するの已むを得なかつた" HEIGHT="699" HPOS="653" ID="Word_20" VPOS="151" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="702" HPOS="625" ID="TextLine_21" VPOS="150" WIDTH="15">
+						<String CONTENT="本校異源氏物語と共に、池田君多年の辛勞は、茲に始めて世に出ることを得るに至りました。實行委員も亦久" HEIGHT="702" HPOS="625" ID="Word_21" VPOS="150" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="433" HPOS="597" ID="TextLine_22" VPOS="152" WIDTH="14">
+						<String CONTENT="しぷりに秋の天を仰ぎ得たやうな心持を感ずるを得たのであります。" HEIGHT="433" HPOS="597" ID="Word_22" VPOS="152" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="683" HPOS="569" ID="TextLine_23" VPOS="168" WIDTH="14">
+						<String CONTENT="この間、君は本會並に東照宮記念會よりの補助金を以て、一部資料の蒐集・謄寫・撮影、之に要する旅費乃" HEIGHT="683" HPOS="569" ID="Word_23" VPOS="168" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="695" HPOS="540" ID="TextLine_24" VPOS="153" WIDTH="15">
+						<String CONTENT="び原稿用紙の製作費等に充てられ、この資料は本會が之を保管してをりますが、君が十餘年に瓦つて本事業に" HEIGHT="695" HPOS="540" ID="Word_24" VPOS="153" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="697" HPOS="512" ID="TextLine_25" VPOS="152" WIDTH="14">
+						<String CONTENT="要せられた人件費やその他一切の諸雜費はもとより、大部分の資料の蒐集・謄寫・攝影に關しては私財を擧ば" HEIGHT="697" HPOS="512" ID="Word_25" VPOS="152" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="698" HPOS="484" ID="TextLine_26" VPOS="152" WIDTH="15">
+						<String CONTENT="てこれが資に投じ、又父君を始め全家族を動員して、この難事業に協力せしめ、一意これが完成のために盡さ" HEIGHT="698" HPOS="484" ID="Word_26" VPOS="152" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="537" HPOS="455" ID="TextLine_27" VPOS="150" WIDTH="14">
+						<String CONTENT="れたことは、尋常一樣の犧牲の語を以てしては到底表はし得ないほどでありました。" HEIGHT="537" HPOS="455" ID="Word_27" VPOS="150" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="683" HPOS="427" ID="TextLine_28" VPOS="169" WIDTH="15">
+						<String CONTENT="この間昭和二年二月芳賀博士は永眠され、本事業の第一次完成として、本書の出版を見ていただくことの出" HEIGHT="683" HPOS="427" ID="Word_28" VPOS="169" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="699" HPOS="399" ID="TextLine_29" VPOS="150" WIDTH="15">
+						<String CONTENT="來なかつたことは千秋の恨事であり、又會員諸君に對して甚だ遺憾の事であり、陳謝に堪へない次第であり〓" HEIGHT="699" HPOS="399" ID="Word_29" VPOS="150" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="698" HPOS="370" ID="TextLine_30" VPOS="152" WIDTH="15">
+						<String CONTENT="すが、會員諸君には、どうか事業の性質成績と前述の事情とについて御洞察下さつて、寛恕されんことを懇師" HEIGHT="698" HPOS="370" ID="Word_30" VPOS="152" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="696" HPOS="342" ID="TextLine_31" VPOS="154" WIDTH="15">
+						<String CONTENT="いたす次第であります。なほ池田君は本事業の第二次・第三次の完成を期して獨力を以て研究を續け、且つ出" HEIGHT="696" HPOS="342" ID="Word_31" VPOS="154" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="619" HPOS="313" ID="TextLine_32" VPOS="152" WIDTH="15">
+						<String CONTENT="版される豫定で、その研究の一部はすでに完了してゐることを、この際ここに報告しておきます、" HEIGHT="619" HPOS="313" ID="Word_32" VPOS="152" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="684" HPOS="285" ID="TextLine_33" VPOS="168" WIDTH="16">
+						<String CONTENT="宮内省は帝室御物の拜觀・撮影の機を與へられ、高松宮家におかせられては、宮家御藏本の拜觀・攝影を許" HEIGHT="684" HPOS="285" ID="Word_33" VPOS="168" WIDTH="16" />
+					</TextLine>
+					<TextLine HEIGHT="698" HPOS="257" ID="TextLine_34" VPOS="153" WIDTH="15">
+						<String CONTENT="可せられました。學術研究御奬勵の有難き思召は、誠に恐罹の極みであります。又本事業に關し、池田君の研" HEIGHT="698" HPOS="257" ID="Word_34" VPOS="153" WIDTH="15" />
+					</TextLine>
+					<TextLine HEIGHT="697" HPOS="228" ID="TextLine_35" VPOS="153" WIDTH="16">
+						<String CONTENT="究を補助し、出版を援助された方々は頗る多いのであります。東照宮三百年記念會は研究費を補助され、宮内" HEIGHT="697" HPOS="228" ID="Word_35" VPOS="153" WIDTH="16" />
+					</TextLine>
+					<TextLine HEIGHT="698" HPOS="200" ID="TextLine_36" VPOS="152" WIDTH="15">
+						<String CONTENT="省圖書寮をはじめ、近衞公爵家・前田侯爵家・徳川侯爵家・三條西伯爵家・榊原子爵家の諸家、大島雅太郎氏・" HEIGHT="698" HPOS="200" ID="Word_36" VPOS="152" WIDTH="15" />
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

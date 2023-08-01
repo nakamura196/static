@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>6722fa34-2fff-11ee-a029-0242ac1c000c_0004.xml</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_1">
+			<ocrProcessingStep>
+				<processingDateTime>2023-08-01T09:13:38.999974+09:00</processingDateTime>
+				<processingAgency>Google Colaboratory</processingAgency>
+				<processingStepSettings>{"config_file": "config.yml", "dump": false, "input_dirs": ["/content/docs/files/6722fa34-2fff-11ee-a029-0242ac1c000c"], "input_root": "/content/docs/files/6722fa34-2fff-11ee-a029-0242ac1c000c", "input_structure": "s", "layout_extraction": {"checkpoint_path": "submodules/ndl_layout/models/ndl_retrainmodel.pth", "config_path": "submodules/ndl_layout/models/cascade_mask_rcnn_convnext-t_p4_w7_fpn_giou_4conv1f_fp16_ms-crop_3x_coco.py", "device": "cuda:0", "score_thr": 0.3}, "line_attribute": {"add_title_author": true, "author_model": "submodules/text_recognition_lightning/models/rf_author/model.pkl", "classifier": "rf", "title_model": "submodules/text_recognition_lightning/models/rf_title/model.pkl"}, "line_ocr": {"additional_elements": {"ノンブル": true, "ルビ": true, "柱": true}, "char_list": "submodules/text_recognition_lightning/ndldata/mojilist_NDL.txt", "saved_model": "submodules/text_recognition_lightning/models/resnet-orient2.ckpt"}, "line_order": true, "output_root": "/content/drive/MyDrive/ndl_ocr2/output/image_url_2023-08-01T07:30:32.249682+09:00_2023-08-01T09:07:45.897213+09:00", "page_deskew": {"acc_deg": 0.1, "gray": 1.0, "method": 1, "quality": 100, "r_angle": 0, "roi_h": 1.0, "roi_w": 1.0, "short": null, "skew_max": 4.0}, "page_separation": {"allow_invalid_num_output": true, "config_path": "submodules/separate_pages_mmdet/models/cascade_rcnn_r50_fpn_1x_ndl_1024.py", "ext": ".jpg", "input": "inference_input", "left": "_01", "log": "trim_pos.tsv", "quality": 100, "right": "_02", "silence_tf_log": true, "single": "_00", "weight_path": "submodules/separate_pages_mmdet/models/epoch_180.pth"}, "partial_infer": true, "proc_range": {"end": 3, "start": 2}, "ruby_only": false, "ruby_read": false, "save_image": false, "save_xml": true}</processingStepSettings>
+				<processingSoftware>
+					<softwareCreator>National Diet Library</softwareCreator>
+					<softwareName>NDLOCR</softwareName>
+					<softwareVersion>2.1</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page ID="Page_4" PHYSICAL_IMG_NR="4">
+			<PrintSpace ID="PrintSpace_4">
+				<TextBlock ID="TextBlock_1">
+					<TextLine HEIGHT="23" HPOS="637" ID="TextLine_1" VPOS="192" WIDTH="24">
+						<String CONTENT="序" HEIGHT="23" HPOS="637" ID="Word_1" VPOS="192" WIDTH="24" />
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="TextBlock_2">
+					<TextLine HEIGHT="682" HPOS="565" ID="TextLine_2" VPOS="170" WIDTH="20">
+						<String CONTENT="東京帝國大學名譽教授散芳賀矢一博士が、久しく東大の國語國文學講座を擔當して、多數學生の指導に任ぜ" HEIGHT="682" HPOS="565" ID="Word_2" VPOS="170" WIDTH="20" />
+					</TextLine>
+					<TextLine HEIGHT="695" HPOS="537" ID="TextLine_3" VPOS="155" WIDTH="19">
+						<String CONTENT="られ、又わが國文學界に於ける新研究の開拓者として學界に貢獻された功績の顯著なことは、今更申すまで〓" HEIGHT="695" HPOS="537" ID="Word_3" VPOS="155" WIDTH="19" />
+					</TextLine>
+					<TextLine HEIGHT="694" HPOS="508" ID="TextLine_4" VPOS="156" WIDTH="19">
+						<String CONTENT="ありません。大正十一年三月病のために願に依つて本官を免ぜられましたが、博士を知ると知らざるとを問は" HEIGHT="694" HPOS="508" ID="Word_4" VPOS="156" WIDTH="19" />
+					</TextLine>
+					<TextLine HEIGHT="686" HPOS="480" ID="TextLine_5" VPOS="156" WIDTH="19">
+						<String CONTENT="ず、講壇から博士を失ふことを惜しまないものはありませんでした。それで博士記念のために國文學研究の" HEIGHT="686" HPOS="480" ID="Word_5" VPOS="156" WIDTH="19" />
+					</TextLine>
+					<TextLine HEIGHT="696" HPOS="451" ID="TextLine_6" VPOS="153" WIDTH="19">
+						<String CONTENT="事業を起さうといふ議が、やがて博士の知人門下生の間に起り、十二年三月本會が出來て、資金の募集に著王" HEIGHT="696" HPOS="451" ID="Word_6" VPOS="153" WIDTH="19" />
+					</TextLine>
+					<TextLine HEIGHT="692" HPOS="423" ID="TextLine_7" VPOS="155" WIDTH="18">
+						<String CONTENT="したのであります。中途大震火災の變に遭遇しましたが、幸に資を得ること金五千餘圓に達しました。そこで" HEIGHT="692" HPOS="423" ID="Word_7" VPOS="155" WIDTH="18" />
+					</TextLine>
+					<TextLine HEIGHT="694" HPOS="395" ID="TextLine_8" VPOS="156" WIDTH="18">
+						<String CONTENT="實行委員は直ちに本資金及びその利子を以て源氏物語の諸註集成を作成せんことを企圖し、これを目標とした" HEIGHT="694" HPOS="395" ID="Word_8" VPOS="156" WIDTH="18" />
+					</TextLine>
+					<TextLine HEIGHT="695" HPOS="366" ID="TextLine_9" VPOS="155" WIDTH="18">
+						<String CONTENT="研究を新進有爲の學者に委囑することとし、芳賀博士の贊成を得て、これを文學士池田龜鑑君に囑託すること" HEIGHT="695" HPOS="366" ID="Word_9" VPOS="155" WIDTH="18" />
+					</TextLine>
+					<TextLine HEIGHT="132" HPOS="343" ID="TextLine_10" VPOS="155" WIDTH="13">
+						<String CONTENT="に決定いたしました。" HEIGHT="132" HPOS="343" ID="Word_10" VPOS="155" WIDTH="13" />
+					</TextLine>
+					<TextLine HEIGHT="682" HPOS="310" ID="TextLine_11" VPOS="168" WIDTH="17">
+						<String CONTENT="池田文學士は囑を受けてより日夜勵精、資料の蒐集及びその研究に從事することになりました。かくて研空" HEIGHT="682" HPOS="310" ID="Word_11" VPOS="168" WIDTH="17" />
+					</TextLine>
+					<TextLine HEIGHT="694" HPOS="281" ID="TextLine_12" VPOS="155" WIDTH="17">
+						<String CONTENT="が漸次進むに隨つて、君は古註引くところの原文の異同に疑を抱き、先づ原典研究の基礎を固めるのでなけれ" HEIGHT="694" HPOS="281" ID="Word_12" VPOS="155" WIDTH="17" />
+					</TextLine>
+					<TextLine HEIGHT="686" HPOS="254" ID="TextLine_13" VPOS="155" WIDTH="17">
+						<String CONTENT="は、諸註研究の完備は期し難いことを痛感され、實行委員も亦これを容認したので、君は第一次事業として" HEIGHT="686" HPOS="254" ID="Word_13" VPOS="155" WIDTH="17" />
+					</TextLine>
+					<TextLine HEIGHT="262" HPOS="228" ID="TextLine_14" VPOS="152" WIDTH="14">
+						<String CONTENT="原典研究に從事されることになりました。" HEIGHT="262" HPOS="228" ID="Word_14" VPOS="152" WIDTH="14" />
+					</TextLine>
+					<TextLine HEIGHT="688" HPOS="196" ID="TextLine_15" VPOS="168" WIDTH="17">
+						<String CONTENT="爾來君は主力を原典の搜索、蒐集に注ぎ、廣くこれを全國に探り、得るに隨つて或は摸寫し、或は撮影して、" HEIGHT="688" HPOS="196" ID="Word_15" VPOS="168" WIDTH="17" />
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvases/0003.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "a_0_200_175_680_720",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/plain",
+                "chars": "⭐️【広告】"
+            },
+            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3#xywh=200,175,680,720"
+        },
+        {
+            "@id": "a_1_479_662_110_114",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/plain",
+                "chars": "⭐️【図版】"
+            },
+            "on": "/iiif/6722fa34-2fff-11ee-a029-0242ac1c000c/canvas/p3#xywh=479,662,110,114"
+        }
+    ]
+}

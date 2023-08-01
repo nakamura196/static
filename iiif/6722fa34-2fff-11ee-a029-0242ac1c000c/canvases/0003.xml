@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>6722fa34-2fff-11ee-a029-0242ac1c000c_0003.xml</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_1">
+			<ocrProcessingStep>
+				<processingDateTime>2023-08-01T09:13:38.643868+09:00</processingDateTime>
+				<processingAgency>Google Colaboratory</processingAgency>
+				<processingStepSettings>{"config_file": "config.yml", "dump": false, "input_dirs": ["/content/docs/files/6722fa34-2fff-11ee-a029-0242ac1c000c"], "input_root": "/content/docs/files/6722fa34-2fff-11ee-a029-0242ac1c000c", "input_structure": "s", "layout_extraction": {"checkpoint_path": "submodules/ndl_layout/models/ndl_retrainmodel.pth", "config_path": "submodules/ndl_layout/models/cascade_mask_rcnn_convnext-t_p4_w7_fpn_giou_4conv1f_fp16_ms-crop_3x_coco.py", "device": "cuda:0", "score_thr": 0.3}, "line_attribute": {"add_title_author": true, "author_model": "submodules/text_recognition_lightning/models/rf_author/model.pkl", "classifier": "rf", "title_model": "submodules/text_recognition_lightning/models/rf_title/model.pkl"}, "line_ocr": {"additional_elements": {"ノンブル": true, "ルビ": true, "柱": true}, "char_list": "submodules/text_recognition_lightning/ndldata/mojilist_NDL.txt", "saved_model": "submodules/text_recognition_lightning/models/resnet-orient2.ckpt"}, "line_order": true, "output_root": "/content/drive/MyDrive/ndl_ocr2/output/image_url_2023-08-01T07:30:32.249682+09:00_2023-08-01T09:07:45.897213+09:00", "page_deskew": {"acc_deg": 0.1, "gray": 1.0, "method": 1, "quality": 100, "r_angle": 0, "roi_h": 1.0, "roi_w": 1.0, "short": null, "skew_max": 4.0}, "page_separation": {"allow_invalid_num_output": true, "config_path": "submodules/separate_pages_mmdet/models/cascade_rcnn_r50_fpn_1x_ndl_1024.py", "ext": ".jpg", "input": "inference_input", "left": "_01", "log": "trim_pos.tsv", "quality": 100, "right": "_02", "silence_tf_log": true, "single": "_00", "weight_path": "submodules/separate_pages_mmdet/models/epoch_180.pth"}, "partial_infer": true, "proc_range": {"end": 3, "start": 2}, "ruby_only": false, "ruby_read": false, "save_image": false, "save_xml": true}</processingStepSettings>
+				<processingSoftware>
+					<softwareCreator>National Diet Library</softwareCreator>
+					<softwareName>NDLOCR</softwareName>
+					<softwareVersion>2.1</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page ID="Page_3" PHYSICAL_IMG_NR="3">
+			<PrintSpace ID="PrintSpace_3" />
+		</Page>
+	</Layout>
+</alto>
